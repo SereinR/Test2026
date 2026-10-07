@@ -3,7 +3,7 @@ public class Welcome{
 public static void main(String args[])
 {
 for (int i=1;i<=5;i++)
-System.out.println("welcome to TSP"+1/0);
+System.out.println("welcome to TSP"+4/2);
 }
 
 }
